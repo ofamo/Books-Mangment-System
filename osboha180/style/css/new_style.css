@@ -1,0 +1,47 @@
+.navbar-inverse.osboha_nav {
+    background-color: #255D86;
+    border-color: #4581ad;
+    border: 1px solid;
+    border-bottom: 1px solid #dff0d8;
+}
+.navbar-inverse.osboha_nav .navbar-nav>li>a{
+  color: #fff;
+}
+.navbar-inverse.osboha_nav .navbar-nav>li>a:hover{
+   color: #9d9d9d;
+}
+.navbar-inverse .osboh-brand {
+    color: #fff;
+    font-size:20px;
+    text-decoration:none;
+    position: relative;
+    top: 12px;
+}
+.table.table-bordered>thead>tr>th,
+.table.table-bordered>tbody>tr>td{
+	text-align:right;
+}
+.btn.btn-custom{
+	    float: right;
+    border-radius: 20px;
+    background: #f5f5f5 !important;
+    border-color: #e6e6e6 !important;
+	margin-bottom:3px;
+}
+.btn.btn-custom a{
+	text-decoration:none;
+}
+.btn.btn-scroll-up{
+	    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: white;
+    background-color: #5c6776;
+    border-color: #204d74;
+}
